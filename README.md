@@ -14,7 +14,7 @@ The following events would occur in sequence:
 -	And the link to their SGRs is needed in their respective forms.
 The SGR would be the primary mode for communication throughout the selection process. This process will ensure that every applicant has a basic knowledge of the frontend part. Again, this process would require only essential skills advanced skills would not be checked here.
 
-#My Details:
+# My Details:
 -	Roll Number: IIT2019205
 -	Opencode Info: 27th place with a 110 points. Was assigned a few issues that I completed efficiently.
 -	Skill Set: Front end - HTML, CSS, JavaScript, React.js - (beginner),
